@@ -1,0 +1,10 @@
+{
+ "port_no" : 5000,
+ "secret_key": "this_is__made_in_india",
+ "songs_list": [
+                "believer.mp3",
+                "cheap thrills.mp3",
+                "power.mp3",
+                "linux.mp3"
+               ]
+}
