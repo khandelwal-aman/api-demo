@@ -1,6 +1,11 @@
 # api-demo
 Music App API contains songs by default in which user can register an account, search songs, create playlist and add songs to the playlist.
 
+## DB Schema
+
+![image](https://user-images.githubusercontent.com/52450550/146683104-fff953b4-8199-45db-8913-a1a185dd2dc7.png)
+
+
 ## Api Table
 
 ### Notations
